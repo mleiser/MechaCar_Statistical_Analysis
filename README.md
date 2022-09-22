@@ -15,5 +15,5 @@ The Lot 1 test also indicated that the null hypothesis cannot be rejected for th
 Lot 2 as well cannot reject the null hypothesis.
 ![Lot 3 Test](https://user-images.githubusercontent.com/46801182/191639783-727559f1-83a2-4dbe-a4b9-9779ffb69c34.png)
 Lot 3 has a p-value of 0.0416 meaning that the null hypothesis can be rejected for Lot 3 making its difference in psi statistically significant when compared to the standard population mean.
-
 ## Study Design: MechaCar vs Competition
+A test set when looking at the competition would be to look at the MPG and safety rating between MechaCar and the competition. To do that, we need to have the safety rating data for the car type that we're looking at.  The samples for both car types should be run through a Two-Sample T-Test. The null hypothesis being that there is no statistically significant difference between the mean values of safety rating when compared with each other I would say at a high level so p-value > 0.01.
